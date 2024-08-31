@@ -4,7 +4,7 @@ import { MouseEvent, useState } from "react";
 interface Props {
   cities: string[];
   heading: string;
-} ///Testing
+} ///comment added
 
 function ListGroup({ cities, heading }: Props) {
   //   let selectedIndex = 0;
