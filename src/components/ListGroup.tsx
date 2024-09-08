@@ -17,7 +17,7 @@ function ListGroup({ cities, heading }: Props) {
   //Tsting branch merge
   //Hook
   const [selectedIndex, setSelectedIndex] = useState(0);
-  //   const handleClick = (event: MouseEvent) => console.log(event);
+  const handleClick = (event: MouseEvent) => console.log(event);
 
   return (
     <>
