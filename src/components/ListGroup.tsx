@@ -14,7 +14,7 @@ function ListGroup({ cities, heading }: Props) {
   //   const getMessage = () => {
   //     return cities.length === 0 ? <p>No city found !</p> : null;
   //   };
-
+  //Tsting branch merge
   //Hook
   const [selectedIndex, setSelectedIndex] = useState(0);
   //   const handleClick = (event: MouseEvent) => console.log(event);
